@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App.js';
 import reportWebVitals from './reportWebVitals';
-import { NavigateBeforeRounded } from '@material-ui/icons';
-import Navbar from './components/Navbar';
+//import { NavigateBeforeRounded } from '@material-ui/icons';
+//import Navbar from './components/Navbar';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
